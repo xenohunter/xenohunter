@@ -5,7 +5,7 @@ Some of my achievements that have the highest frontend relevance:
 - launched [one of the first](https://waves.exchange/) client-side crypto wallet apps
 - managed a cross-functional team of 6 people working on that app
 - authored a client-side [cryptographic API library](https://www.npmjs.com/package/waves-api?activeTab=code)
-- created two small browser games for the js13kGames contest (here's [one](https://js13kgames.com/entries/glitch-rabbit) and believe me, you don't want to see the other one)
+- created two small browser games for js13kGames (here's [one](https://js13kgames.com/entries/glitch-rabbit))
 
 Among my hobbies:
 - publishing a Substack [newsletter](https://unstableorbits.substack.com/) (very irregularly)
