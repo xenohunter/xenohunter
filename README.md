@@ -6,6 +6,7 @@ Some of my achievements that have the highest frontend relevance:
 - managed a cross-functional team of 6 people working on that app
 - authored a client-side [cryptographic API library](https://www.npmjs.com/package/waves-api?activeTab=code)
 - created two small browser games for js13kGames (here's [one](https://js13kgames.com/entries/glitch-rabbit))
+- assembled [some Gists](https://gist.github.com/xenohunter) over the years
 
 Among my hobbies:
 - publishing a Substack [newsletter](https://unstableorbits.substack.com/) (very irregularly)
@@ -15,6 +16,5 @@ Among my hobbies:
 Links:
 - [LinkedIn](https://www.linkedin.com/in/xenohunter/)
 - [Twitter](https://twitter.com/blisstweeting)
-- [Bluesky](https://staging.bsky.app/profile/blisstweeting.ingroup.social) (if you have an account there)
-
-I would love to work on meaningful projects together with people who genuinely want to change the world for the better.
+- [Bluesky](https://bsky.app/profile/blisstweeting.ingroup.social) (if you have an account there)
+- [Liberapay](https://liberapay.com/blisstweeting) and [0x567ccDD062Ec253293B2A3C0459A86c00CdDfDbe](https://etherscan.io/address/0x567ccDD062Ec253293B2A3C0459A86c00CdDfDbe) (if you want to donate)
