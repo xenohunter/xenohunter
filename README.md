@@ -16,5 +16,5 @@ Among my hobbies:
 Links:
 - [LinkedIn](https://www.linkedin.com/in/xenohunter/)
 - [Twitter](https://twitter.com/blisstweeting)
-- [Bluesky](https://bsky.app/profile/blisstweeting.ingroup.social) (if you have an account there)
+- [Bluesky](https://bsky.app/profile/blisstweeting.xyz) (if you have an account there)
 - [Liberapay](https://liberapay.com/blisstweeting) and [0x567ccDD062Ec253293B2A3C0459A86c00CdDfDbe](https://etherscan.io/address/0x567ccDD062Ec253293B2A3C0459A86c00CdDfDbe) (if you want to donate)
