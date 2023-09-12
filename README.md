@@ -13,8 +13,12 @@ Among my hobbies:
 - reading long rational fiction novels (you can check what I've read on my [Goodreads](https://www.goodreads.com/user/show/46199633-phil-filippak) account)
 - juggling (only three balls so far but with a variety of patterns)
 
-Links:
-- [LinkedIn](https://www.linkedin.com/in/xenohunter/)
+Social:
 - [Twitter](https://twitter.com/blisstweeting)
-- [Bluesky](https://bsky.app/profile/blisstweeting.xyz) (if you have an account there)
-- [Liberapay](https://liberapay.com/blisstweeting) and [0x567ccDD062Ec253293B2A3C0459A86c00CdDfDbe](https://etherscan.io/address/0x567ccDD062Ec253293B2A3C0459A86c00CdDfDbe) (if you want to donate)
+- [LinkedIn](https://www.linkedin.com/in/xenohunter/)
+- [Bluesky](https://bsky.app/profile/blisstweeting.xyz)
+
+Donate:
+- [blisstweeting.eth](https://etherscan.io/address/0x567ccDD062Ec253293B2A3C0459A86c00CdDfDbe)
+- [Patreon](https://www.patreon.com/architectofthought)
+- [Liberapay](https://liberapay.com/blisstweeting)
