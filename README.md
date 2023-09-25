@@ -6,10 +6,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1k-blue)](https://www.linkedin.com/in/xenohunter)
 [![Bluesky](https://img.shields.io/badge/Bluesky-500-blue)](https://bsky.app/profile/blisstweeting.xyz)
 
-Worked in frontend for 7 years, then in machine learning for 3 years.
-
-Now I'm back to frontend because it excites me the most.
-
 Some of my achievements:
 - Developed a [Chrome extension](https://github.com/xenohunter/bluesky-overhaul) improving the UX on Bluesky web app
 - Launched [one of the first](https://waves.exchange/) client-side crypto wallet apps
