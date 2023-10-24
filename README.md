@@ -1,10 +1,10 @@
-[![ENS](https://img.shields.io/badge/ENS-blisstweeting.eth-yellow)](https://etherscan.io/address/0x567ccDD062Ec253293B2A3C0459A86c00CdDfDbe)
-[![Liberapay](https://img.shields.io/liberapay/patrons/blisstweeting?label=Liberapay)](https://liberapay.com/blisstweeting)
-[![Patreon](https://img.shields.io/badge/Patreon-4-yellow)](https://www.patreon.com/architectofthought)
-
 [![Twitter](https://img.shields.io/badge/Twitter-2.4k-blue)](https://twitter.com/blisstweeting)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1k-blue)](https://www.linkedin.com/in/xenohunter)
 [![Bluesky](https://img.shields.io/badge/Bluesky-500-blue)](https://bsky.app/profile/blisstweeting.xyz)
+
+[![ENS](https://img.shields.io/badge/ENS-blisstweeting.eth-yellow)](https://etherscan.io/address/0x567ccDD062Ec253293B2A3C0459A86c00CdDfDbe)
+[![Liberapay](https://img.shields.io/liberapay/patrons/blisstweeting?label=Liberapay)](https://liberapay.com/blisstweeting)
+[![Patreon](https://img.shields.io/badge/Patreon-4-yellow)](https://www.patreon.com/architectofthought)
 
 Some of my achievements:
 - Developed a [Chrome extension](https://github.com/xenohunter/bluesky-overhaul) improving the UX on Bluesky web app
