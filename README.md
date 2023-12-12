@@ -1,6 +1,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-2.4k-blue)](https://twitter.com/blisstweeting)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1k-blue)](https://www.linkedin.com/in/xenohunter)
-[![Bluesky](https://img.shields.io/badge/Bluesky-500-blue)](https://bsky.app/profile/blisstweeting.xyz)
+[![Bluesky](https://img.shields.io/badge/Bluesky-505-blue)](https://bsky.app/profile/blisstweeting.xyz)
+[![Product%20Hunt](https://img.shields.io/badge/Product%20Hunt-Maker-blue)](https://www.producthunt.com/@blisstweeting)
 
 [![ENS](https://img.shields.io/badge/ENS-blisstweeting.eth-yellow)](https://etherscan.io/address/0x567ccDD062Ec253293B2A3C0459A86c00CdDfDbe)
 [![Liberapay](https://img.shields.io/liberapay/patrons/blisstweeting?label=Liberapay)](https://liberapay.com/blisstweeting)
