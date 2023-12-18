@@ -18,3 +18,5 @@ Some of my hobbies:
 - Publishing a Substack [newsletter](https://unstableorbits.substack.com/)
 - Reading (you can check what I've read on my [Goodreads](https://www.goodreads.com/user/show/46199633-phil-filippak) account)
 - Juggling (you can see some of that [here](https://twitter.com/blisstweeting/status/1690370749238853632))
+
+Here's [my wishlist](https://github.com/xenohunter/xenohunter/blob/main/WISHLIST.md) in case you want to gift me with something
