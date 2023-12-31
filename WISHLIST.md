@@ -2,6 +2,8 @@
 - [ ] Acoustic guitar (just the simplest one — but only with metal strings, not nylon ones)
 - [ ] ~~Oculus~~ [Meta Quest 3](https://www.meta.com/quest/quest-3/)
 - Any of the games from [my Steam wishlist](https://store.steampowered.com/wishlist/profiles/76561198081790656)
+- Books:
+  - [ ] [The Mathematical Theory of Communication](https://www.amazon.com/Mathematical-Theory-Communication-Claude-Shannon/dp/0252725484)
 
 ## Consumables
 - [Huel](https://huel.com/) (anything, I just want to try it at this point)
