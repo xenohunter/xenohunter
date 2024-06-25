@@ -1,4 +1,4 @@
-[![Twitter](https://img.shields.io/badge/Twitter-2.5k-blue)](https://twitter.com/blisstweeting)
+[![Twitter](https://img.shields.io/badge/Twitter-2.6k-blue)](https://twitter.com/blisstweeting)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1k-blue)](https://www.linkedin.com/in/xenohunter)
 [![Bluesky](https://img.shields.io/badge/Bluesky-527-blue)](https://bsky.app/profile/blisstweeting.xyz)
 
@@ -14,6 +14,6 @@ Some of my achievements:
 - Created two small browser games for js13kGames (here's [one](https://js13kgames.com/entries/glitch-rabbit))
 
 Some of my hobbies:
-- Publishing a Substack [newsletter](https://unstableorbits.substack.com/)
+- Publishing a Substack [newsletter](https://unstableorbits.blog/)
 - Reading (you can check what I've read on my [Goodreads](https://www.goodreads.com/user/show/46199633-phil-filippak) account)
 - Juggling (you can see some of that [here](https://twitter.com/blisstweeting/status/1690370749238853632))
