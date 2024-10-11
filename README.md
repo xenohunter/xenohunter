@@ -1,4 +1,4 @@
-[![Twitter](https://img.shields.io/badge/Twitter-2.6k-blue)](https://twitter.com/blisstweeting)
+[![Twitter](https://img.shields.io/badge/Twitter-2.7k-blue)](https://twitter.com/blisstweeting)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1k-blue)](https://www.linkedin.com/in/xenohunter)
 [![Bluesky](https://img.shields.io/badge/Bluesky-527-blue)](https://bsky.app/profile/blisstweeting.xyz)
 
@@ -7,7 +7,8 @@
 [![ENS](https://img.shields.io/badge/ENS-blisstweeting.eth-yellow)](https://etherscan.io/address/0x567ccDD062Ec253293B2A3C0459A86c00CdDfDbe)
 
 Some of my achievements:
-- Developed a [Chrome extension](https://github.com/xenohunter/bluesky-overhaul) improving the UX on Bluesky web app
+- Have done a ton of frontend work at different companies...
+- ...and slighly less in my ML roles at other companies
 - Launched [one of the first](https://waves.exchange/) client-side crypto wallet apps
 - Managed a cross-functional team of 6 people working on that app
 - Authored a client-side [cryptographic API library](https://www.npmjs.com/package/waves-api?activeTab=code)
